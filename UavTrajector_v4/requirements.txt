@@ -1,0 +1,10 @@
+# Install a CUDA build of PyTorch and a compatible Mamba2 stack separately.
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+hmmlearn
+orjson
+pyarrow
+tqdm
